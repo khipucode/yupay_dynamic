@@ -1,0 +1,14 @@
+País:  Peru
+Número inicial de casos:  5
+Número actual de casos:  4634
+-------------------Modelo Gompertz--------------------
+[‘a=37.525’, ‘b=8.117’, ‘c=14315.714’]
+[‘sigma_a=0.675’, ‘sigma_b=0.074’, ‘sigma_c=465.822’]
+Error logarítmico cuadrático medio (MSLE):  0.031
+Exp RMSLE:  1.191
+R^2:  1.000
+Predicción para:   02, Jun 2020
+Predicción para Gompertz :  4765  ( +-85, –78)
+Real data:  4634
+Porcentaje de error de predicción:  2.828144 %
+------------------------------------------------------
