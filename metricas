@@ -1,0 +1,29 @@
+--------------------------------------------------------------
+País:  Peru
+Número inicial de casos:  7
+Número actual de casos:  214788
+>>>
+>>> Modelo Logístico 
+['a=13.994', 'b=81.898', 'c=290306.947']
+['sigma_a=0.249', 'sigma_b=0.714', 'sigma_c=6621.273']
+Error logarítmico cuadrático medio (MSLE): 2.066
+Exp RMSLE:  4.209
+R^2:  0.998
+Día de aplanamiento de la curva de infección.
+--> 22, Jul 2020
+***
+***Modelo Gompertz
+['a=42.567', 'b=10.170', 'c=631063.675']
+['sigma_a=1.113', 'sigma_b=0.202', 'sigma_c=28718.944']
+Error logarítmico cuadrático medio (MSLE):  0.206
+Exp RMSLE:  1.574
+R^2:  0.999
+Día de aplanamiento de la curva de infección.
+---> 25, Jun 2021
+###
+###  Modelo Exponencial
+['p=0.120', 'sigma_p=0.001']
+Error logarítmico cuadrático medio (MSLE):  8.096
+Exp RMSLE:  17.208
+R^2 :  0.126
+--------------------------------------------------------------
